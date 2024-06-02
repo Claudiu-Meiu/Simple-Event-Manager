@@ -1,0 +1,134 @@
+.event-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.event-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.event-form input[type="text"],
+.event-form input[type="date"],
+.event-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    color:black;
+}
+
+.event-form textarea {
+    resize: vertical;
+}
+
+.event-form input[type="submit"] {
+    background-color: #069059;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.event-form input[type="submit"]:hover {
+    background-color: #34D293;
+}
+
+.event {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.event-title {
+    text-align: center;
+}
+
+
+.event p {
+    margin-bottom: 10px;
+}
+
+.delete-form {
+    margin-top: 10px;
+    
+}
+
+.event h2 {
+    margin-top: 40px;
+}
+
+.all-events {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+
+.event {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    color: black;
+}
+
+.event-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.event-details {
+    margin-bottom: 10px;
+    color: black;
+}
+
+.register-click-button {
+    background-color: #069059;
+    color: white;
+    border-radius: 5px;
+}
+
+.register-click-button:hover {
+    background-color: #34D293;
+    color: white;
+    border-radius: 5px;
+}
+
+.unregister-click-button {
+    background-color: #FF5733;
+    color: white;
+    border-radius: 5px;
+}
+
+.unregister-click-button:hover {
+    background-color: red !important;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.event {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+
+.delete-button {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    border-radius: 5px !important;
+    color: white;
+}
+
+.delete-button:hover {
+    border-radius: 5px !important;
+    color: white;
+    background-color: red !important;
+}
