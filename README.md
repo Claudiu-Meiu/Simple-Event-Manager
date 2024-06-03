@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/event-form.png?raw=true) ![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/events.png?raw=true)
 
-## How to inatall
+## How to install
 
 - Download the zip file.
 - Go to your Wordpress dashboard (Plugins > Add new) and upload the zip file.
