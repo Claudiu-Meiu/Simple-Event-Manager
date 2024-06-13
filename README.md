@@ -5,7 +5,7 @@
 ## How to install
 
 - Download the zip file.
-- Go to your Wordpress dashboard (Plugins > Add new) and upload the zip file.
+- Go to your WordPress dashboard (Plugins > Add new) and upload the zip file.
 - Activate the plugin.
 
 ## How to use
