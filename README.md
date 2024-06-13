@@ -10,7 +10,7 @@
 
 ## How to use
 
-Add the shortcode to your desired page.
+Add the shortcode on a page you want the form to be displayed.
 ```
 [event_form]
 ```
