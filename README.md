@@ -1,8 +1,9 @@
 ## This is a WordPress plugin that allows logged-in users to create and manage events.
 
+![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/event2.png?raw=true)
 ![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/Event-form.png?raw=true) 
 ![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/event1.png?raw=true)
-![alt text](https://github.com/Claudiu-Meiu/Simple-Event-Manager/blob/main/img/event2.png?raw=true)
+
 
 
 
